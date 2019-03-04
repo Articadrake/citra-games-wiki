@@ -1,0 +1,9 @@
+title = "LEGO Pirates of the Caribbean: The Video Game"
+description = "LEGO Pirates of the Caribbean is an RPG published by Disney Interactive and developed by TT Games. The game recreates the best moments of the Pirates of the Caribbean mythology in LEGO form. Players can take on the roles of more than 70 characters and experience the pirate adventure, irreverent humor and amazing creatures through action-adventure gameplay and hilariously quirky cut scenes."
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "0004000000045600"
+region = "eur"
+release_date = "2011-05-13"
